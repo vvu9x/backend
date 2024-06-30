@@ -2,7 +2,9 @@
 运行方式：
 npm run dev
 目前中间件还需要debug
-相应的前端和测试将会在周日前完成
+
+前端（但是写的一坨...状态管理那块儿还需要再思考思考）：
+https://github.com/vvu9x/my-app-Frontend
 
 获取书籍：get http://localhost:3000/v1/books
 上传书籍：post http://localhost:3000/v1/books
